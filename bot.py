@@ -2,7 +2,7 @@ import vk_api
 import time
 import json
 
-token = "a61f9d92937c5616611b943ea7da3b30be41479dde662b2cf1883c95f57bde18b9190b45fbe0d4a91d7e0"
+token = ""
 
 vk = vk_api.VkApi(token=token)
 
